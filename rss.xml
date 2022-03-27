@@ -10,12 +10,23 @@
         </author>
         <description></description>
         <language>en</language>
-        <pubDate>Sun, 27 Mar 2022 09:19:30 +0800</pubDate>
-        <lastBuildDate>Sun, 27 Mar 2022 09:19:30 +0800</lastBuildDate>
+        <pubDate>Sun, 27 Mar 2022 19:57:05 +0800</pubDate>
+        <lastBuildDate>Sun, 27 Mar 2022 19:57:05 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2022/03/27/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/</guid>
+            <guid isPermalink="true">http://example.com/philosophy/Test/</guid>
+            <title>Test</title>
+            <link>http://example.com/philosophy/Test/</link>
+            <category term="哲学" scheme="http://example.com/categories/philosophy/" />
+            <category term="哲学" scheme="http://example.com/tags/%E5%93%B2%E5%AD%A6/" />
+            <pubDate>Sun, 27 Mar 2022 19:57:05 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;测试一下是否自动生成系列文章。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/philosophy/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/</guid>
             <title>读《家庭、私有制和国家的起源》</title>
-            <link>http://example.com/2022/03/27/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/</link>
+            <link>http://example.com/philosophy/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/</link>
+            <category term="哲学" scheme="http://example.com/categories/philosophy/" />
             <category term="哲学" scheme="http://example.com/tags/%E5%93%B2%E5%AD%A6/" />
             <category term="马克思主义哲学" scheme="http://example.com/tags/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/" />
             <pubDate>Sun, 27 Mar 2022 09:19:30 +0800</pubDate>

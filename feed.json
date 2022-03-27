@@ -7,12 +7,24 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2022/03/27/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/",
-            "url": "http://example.com/2022/03/27/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/",
+            "id": "http://example.com/philosophy/Test/",
+            "url": "http://example.com/philosophy/Test/",
+            "title": "Test",
+            "date_published": "2022-03-27T11:57:05.000Z",
+            "content_html": "<p>测试一下是否自动生成系列文章。</p>\n",
+            "tags": [
+                "哲学",
+                "哲学"
+            ]
+        },
+        {
+            "id": "http://example.com/philosophy/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/",
+            "url": "http://example.com/philosophy/%E8%AF%BB%E3%80%8A%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90%E3%80%8B/",
             "title": "读《家庭、私有制和国家的起源》",
             "date_published": "2022-03-27T01:19:30.000Z",
             "content_html": "<div class=\"tab\" data-id=\"test\" data-title=\"基本信息\">\n<p>\n<img align=\"left\" width=\"200px\" data-src=\"https://pic.imgdb.cn/item/62402eca27f86abb2adf0c7c.jpg\">\n</p>\n<p><span class=\"blue\"><strong>家庭、私有制和国家的起源</strong></span><br />\n \n<font size=2>\n\n原  名：Der Ursprung der Familie, des Privateigenthums und des Staats<br />\n作  者：[Germany]Friedrich Engels<br />\n译  者：中央编译局<br />\n出版社：人民出版社<br />\n出版年：2003年<br />\n</font>\n</p>\n</div>\n<div class=\"tab\" data-id=\"test\" data-title=\"内容简介\">\n<p>  《家庭、私有制和国家的起源》一书包括 2 篇序言和 9 章正文内容，大致可以划分为四个部分。</p>\n<p>  1、第一章史前各文化阶段，讲述文明时代之前的蒙昧时代与野蛮时代，探讨古代社会的概况。</p>\n<p>  2、第二章家庭，主要探讨家庭的四种形式 —— 血缘家庭、普那路亚家庭、对偶制家庭和专偶制家庭，揭示家庭形式的演变及演变的关键与基础。</p>\n<p>  3、第三章至第八章，主要结合易洛魁人、希腊人、雅典人、罗马人、凯尔特人和德意志人等诸具体历史发展过程，专门探讨氏族制度的解体、母权制向父权制的转变、国家的形成和发展等重要的理论问题，揭示了私有制在氏族社会的瓦解及国家形成过程中的重要作用。</p>\n<p>  4、第九章野蛮时代和文明时代是全书的总结部分，系统论述了一系列历史唯物主义基本原理和马克思主义国家理论。探讨了社会经济条件的变化与社会组织形式之间的内在关系，探讨了国家的本质及其特征，分析了文明社会的实质。通过对历史素材的全面而深入剖析，对社会转变时期的经济条件及其重要作用做了深刻分析，论证了经济条件是影响社会发展的决定性因素。</p>\n<p>  这四个部分贯穿着一条清晰的认知路径：文明进程、社会组织形式的演进受制于原始公有制到私有制转变的逻辑。人类从蒙昧、野蛮走向文明，家庭从血缘家庭、普那路亚家庭和对偶制家庭走向专偶制家庭，社会组织形式由氏族变成国家，都是原始公有制向私有制转变的外部表现。在生产力发展的基础上，生产关系从公有制到私有制的改变，促成了社会形态、家庭形式和社会组织形式的转变。</p>\n<blockquote>\n<p>引用自百度百科：家庭、私有制和国家的起源</p>\n</blockquote>\n</div>\n",
             "tags": [
+                "哲学",
                 "哲学",
                 "马克思主义哲学"
             ]
