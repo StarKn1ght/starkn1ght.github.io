@@ -54,18 +54,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Test</title>
-    <url>/philosophy/Test/</url>
-    <content><![CDATA[<p>测试一下是否自动生成系列文章。</p>
-]]></content>
-      <categories>
-        <category>哲学</category>
-      </categories>
-      <tags>
-        <tag>哲学</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>读《球状闪电》</title>
     <url>/fiction/%E8%AF%BB%E3%80%8A%E7%90%83%E7%8A%B6%E9%97%AA%E7%94%B5%E3%80%8B/</url>
     <content><![CDATA[<details class="info"><summary>序曲 -> 林云之一【第33页】</summary><div>
@@ -96,6 +84,18 @@
       <tags>
         <tag>小说</tag>
         <tag>科幻小说</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Test</title>
+    <url>/philosophy/Test/</url>
+    <content><![CDATA[<p>测试一下是否自动生成系列文章。</p>
+]]></content>
+      <categories>
+        <category>哲学</category>
+      </categories>
+      <tags>
+        <tag>哲学</tag>
       </tags>
   </entry>
   <entry>
